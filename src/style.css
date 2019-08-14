@@ -1,0 +1,27 @@
+#title {
+  text-align: center;
+}
+#tribute-info {
+  text-align: center;
+}
+#facts-list li{
+  margin-right: 20px;
+}
+#footer {
+  text-align: center;
+}
+#image {
+  display: block;
+  width: 100%;
+  max-width: 1200px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+table {
+  width: 100%;
+  height: auto;
+}
+.w3-theme-l5 {color:#000 !important; background-color:#e9f5ff !important}
+.w3-theme-d5 {color:#fff !important; background-color:#012641 !important}
+.w3-text-theme {color:#034f84 !important}
